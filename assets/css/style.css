@@ -1,0 +1,39 @@
+body {
+    color: #112f41;
+    background: #f2b134;
+}
+
+#header {
+    background: #ed553b;
+    border: 3px solid #068587;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    margin: 10px auto;
+    text-align: center;
+    font-size: 3em;
+    vertical-align: middle;
+}
+
+#mainBody {
+    width: 602px;
+    background: #4fb99f;
+    border: 3px solid #068587;
+    padding: 10px 20px;
+    margin: 10px auto;
+    line-height: 1.3em;
+}
+
+#crystals {
+    width: 668px;
+    margin: 10px auto;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    background: #4fb99f;
+    border: 2px solid #068587;
+}
